@@ -1,0 +1,28 @@
+Av Inventory Manager.
+http://github.com/wschwarz/Av-Inventory-Manager
+                 
+Purpose: 
+  -allow addition of meta data to files
+  -easy reporting
+  -allow file rearrangement while keeping attached metadata
+  
+Target
+  AV Staff @ UCLA School of Law
+  
+Workflow
+  -Setup
+    Set correct root folder that contains AV files.
+  -General Use
+    Use build page to register any changes
+    Use edit page to make changes/additions/deletions to metadata
+    Use default page to view full list of files with associated metadata 
+    
+Description
+  AV Staff requested a tool that would allow the attachment of additional 
+information to their backlog of recordings and media. They wanted the ability
+to specify classroom location, recording time, event type and owner as well as
+additional fields as necessary. This application was designed and created to
+fulfill these needs.  
+  
+Finished application March 2009
+
